@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f4f6;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.event-list {
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+}
+
+.event-list > div {
+    padding: 10px 15px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.event-list > div:last-child {
+    border-bottom: none;
+}
+
+.event-title {
+    font-weight: bold;
+    color: #333;
+}
+
+.event-details {
+    margin-top: 8px;
+    color: #666;
+}
+
+.event-date {
+    color: #007BFF;
+}
+
+.event-description {
+    margin-top: 5px;
+}
