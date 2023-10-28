@@ -1,26 +1,26 @@
-"""Metier","Evenement""""","Date""""","Heure""""","Description""""","Nombre de participants"""""""
-"Ingenieur en systemes embarques,""rencontre lycee"",""04/12/2023"",""09:30"",""Exploration des systemes embarques et de leurs applications dans la vie quotidienne"",""100"""
-"Directeur de contenu numerique,""visioconference"",""06/12/2023"",""15:00"",""Discussion sur la production de contenu numerique de qualite et son impact sur le marketing"",""50"""
-"Ingenieur en solutions IoT,""conference"",""08/12/2023"",""11:00"",""Presentation des dernieres innovations en matiere d'Internet des objets"",""70"""
-"Manager e-commerce,""repas metier"",""10/12/2023"",""13:00"",""Dejeuner avec des experts du commerce electronique pour discuter des tendances du marche"",""10"""
-"Ingenieur en robotique,""podcast video"",""12/12/2023"",""17:30"",""Decouverte des dernieres avancees en robotique et de leurs implications pour l'avenir"",""2000"""
-"Specialiste en marketing mobile,""forum orientation"",""14/12/2023"",""09:45"",""Atelier sur l'importance du marketing mobile a l'ere du digital"",""55"""
-"Ingenieur en solutions mobiles,""visioconference"",""16/12/2023"",""14:15"",""Discussion sur les defis de developpement d'applications mobiles"",""40"""
-"Technicien en support blockchain,""rencontre lycee"",""18/12/2023"",""10:00"",""Introduction a la technologie blockchain et a ses applications pratiques"",""110"""
-"Analyste en machine learning,""conference"",""20/12/2023"",""16:30"",""Vue d'ensemble des techniques d'apprentissage automatique et de leur potentiel"",""85"""
-"Ingenieur en systemes quantiques,""podcast video"",""22/12/2023"",""19:00"",""Discussion sur les progres de l'informatique quantique et de ses applications futures"",""1700"""
-"Consultant en experience utilisateur (UX),""forum orientation"",""24/12/2023"",""10:30"",""Presentation des meilleures pratiques en matiere d'UX et d'importance de l'experience utilisateur"",""60"""
-"Analyste en optimisation des moteurs de recherche (SEO),""visioconference"",""26/12/2023"",""15:45"",""Strategies avancees pour ameliorer la visibilite sur les moteurs de recherche"",""47"""
-"Ingenieur en developpement durable,""rencontre lycee"",""28/12/2023"",""09:15"",""Discussion sur l'importance du developpement durable dans la technologie moderne"",""95"""
-"Specialiste en publicite programmatique,""repas metier"",""30/12/2023"",""12:45"",""Dejeuner pour discuter des avantages et des defis de la publicite programmatique"",""9"""
-"Ingenieur en bio-informatique,""conference"",""02/01/2024"",""11:45"",""Exploration des intersections entre la biologie et l'informatique et de leurs applications pratiques"",""75"""
-"Responsable de la strategie de contenu,""podcast video"",""04/01/2024"",""18:00"",""Conseils pour elaborer une strategie de contenu efficace a l'ere numerique"",""1600"""
-"Technicien en realite virtuelle,""visioconference"",""06/01/2024"",""14:30"",""Vue d'ensemble des tendances en matiere de realite virtuelle et de leur impact sur l'industrie"",""52"""
-"Analyste en medias sociaux,""forum orientation"",""08/01/2024"",""10:15"",""Comprendre les dynamiques des medias sociaux et comment les analyser efficacement"",""58"""
-"Manager en fintech,""rencontre lycee"",""10/01/2024"",""09:45"",""Introduction a la fintech et a son role transformateur dans le secteur financier"",""105"""
-"Ingenieur en nanotechnologie,""podcast video"",""12/01/2024"",""17:15"",""Plongee dans le monde de la nanotechnologie et de ses implications revolutionnaires"",""1800"""
-"Consultant en accessibilite web,""visioconference"",""14/01/2024"",""15:30"",""Strategies pour rendre le web plus accessible a tous les utilisateurs"",""44"""
-"Analyste en genetique computationnelle,""rencontre lycee"",""16/01/2024"",""10:30"",""Exploration des avancees en genetique computationnelle et de leurs implications pour la recherche"",""102"""
-"Ingenieur en energies renouvelables,""conference"",""18/01/2024"",""12:00"",""Decouverte des technologies d'energies renouvelables et de leur role dans un avenir durable"",""90"""
-"Directeur de medias numeriques,""repas metier"",""20/01/2024"",""13:15"",""Dejeuner pour discuter des defis et des opportunites dans la gestion des medias numeriques"",""11"""
-"Technicien en drones,""podcast video"",""22/01/2024"",""19:30"",""Discussion sur l'evolution de la technologie des drones et de ses nombreuses applications"",""1900"""
+Metier,Evenement,Date,Heure,Description,Nombre de participants
+Ingenieur en systemes embarques,rencontre lycee,04/12/2023,09:30,Exploration des systemes embarques et de leurs applications dans la vie quotidienne,100
+Directeur de contenu numerique,visioconference,06/12/2023,15:00,Discussion sur la production de contenu numerique de qualite et son impact sur le marketing,50
+Ingenieur en solutions IoT,conference,08/12/2023,11:00,Presentation des dernieres innovations en matiere d'Internet des objets,70
+Manager e-commerce,repas metier,10/12/2023,13:00,Dejeuner avec des experts du commerce electronique pour discuter des tendances du marche,10
+Ingenieur en robotique,podcast video,12/12/2023,17:30,Decouverte des dernieres avancees en robotique et de leurs implications pour l'avenir,2000
+Specialiste en marketing mobile,forum orientation,14/12/2023,09:45,Atelier sur l'importance du marketing mobile a l'ere du digital,55
+Ingenieur en solutions mobiles,visioconference,16/12/2023,14:15,Discussion sur les defis de developpement d'applications mobiles,40
+Technicien en support blockchain,rencontre lycee,18/12/2023,10:00,Introduction a la technologie blockchain et a ses applications pratiques,110
+Analyste en machine learning,conference,20/12/2023,16:30,Vue d'ensemble des techniques d'apprentissage automatique et de leur potentiel,85
+Ingenieur en systemes quantiques,podcast video,22/12/2023,19:00,Discussion sur les progres de l'informatique quantique et de ses applications futures,1700
+Consultant en experience utilisateur (UX),forum orientation,24/12/2023,10:30,Presentation des meilleures pratiques en matiere d'UX et d'importance de l'experience utilisateur,60
+Analyste en optimisation des moteurs de recherche (SEO),visioconference,26/12/2023,15:45,Strategies avancees pour ameliorer la visibilite sur les moteurs de recherche,47
+Ingenieur en developpement durable,rencontre lycee,28/12/2023,09:15,Discussion sur l'importance du developpement durable dans la technologie moderne,95
+Specialiste en publicite programmatique,repas metier,30/12/2023,12:45,Dejeuner pour discuter des avantages et des defis de la publicite programmatique,9
+Ingenieur en bio-informatique,conference,02/01/2024,11:45,Exploration des intersections entre la biologie et l'informatique et de leurs applications pratiques,75
+Responsable de la strategie de contenu,podcast video,04/01/2024,18:00,Conseils pour elaborer une strategie de contenu efficace a l'ere numerique,1600
+Technicien en realite virtuelle,visioconference,06/01/2024,14:30,Vue d'ensemble des tendances en matiere de realite virtuelle et de leur impact sur l'industrie,52
+Analyste en medias sociaux,forum orientation,08/01/2024,10:15,Comprendre les dynamiques des medias sociaux et comment les analyser efficacement,58
+Manager en fintech,rencontre lycee,10/01/2024,09:45,Introduction a la fintech et a son role transformateur dans le secteur financier,105
+Ingenieur en nanotechnologie,podcast video,12/01/2024,17:15,Plongee dans le monde de la nanotechnologie et de ses implications revolutionnaires,1800
+Consultant en accessibilite web,visioconference,14/01/2024,15:30,Strategies pour rendre le web plus accessible a tous les utilisateurs,44
+Analyste en genetique computationnelle,rencontre lycee,16/01/2024,10:30,Exploration des avancees en genetique computationnelle et de leurs implications pour la recherche,102
+Ingenieur en energies renouvelables,conference,18/01/2024,12:00,Decouverte des technologies d'energies renouvelables et de leur role dans un avenir durable,90
+Directeur de medias numeriques,repas metier,20/01/2024,13:15,Dejeuner pour discuter des defis et des opportunites dans la gestion des medias numeriques,11
+Technicien en drones,podcast video,22/01/2024,19:30,Discussion sur l'evolution de la technologie des drones et de ses nombreuses applications,1900
